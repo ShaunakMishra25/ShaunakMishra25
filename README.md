@@ -1,4 +1,4 @@
-<img width="16" height="16" alt="icons8-tool-16" src="https://github.com/user-attachments/assets/7d98bedd-9137-47a4-b19e-c8cf7cf44e20" /><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/8363e174-4fd7-4322-a8eb-a236f5a8b465" /><h1 align="center">Hi 👋, I'm Shaunak Mishra</h1>
+<h1 align="center">Hi 👋, I'm Shaunak Mishra</h1>
 <h3 align="center">Aspiring Web Developer + AI Builder | Preparing for Global Remote Opportunities 🌍</h3>
 
 <p align="center">

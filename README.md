@@ -73,7 +73,7 @@
   <img src="https://streak-stats.demolab.com?user=ShaunakMishra25&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ---
 

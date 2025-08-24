@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

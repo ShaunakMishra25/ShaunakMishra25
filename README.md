@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shaunak Mishra</h1>
-<h3 align="center">Aspiring Web Developer + AI Builder | Preparing for Global Remote Opportunities 🌍</h3>
+<h3 align="center">Web Developer + AI Builder | Preparing for Global Remote Opportunities 🌍</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Shaunak+Mishra;Web+Dev+%7C+AI+Builder;React+%7C+Tailwind+%7C+GPT+APIs;Focused+on+Remote+Career&center=true&width=500&height=45" />

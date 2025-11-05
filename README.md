@@ -136,7 +136,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaunakMishra25&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://komarev.com/ghpvc/?username=ShaunakMishra25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---

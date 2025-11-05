@@ -129,12 +129,6 @@
   />
 </p>
 
----
-
-<p align="center">
-  🟩 My real-time contribution streak and commit activity are visible on the GitHub tiles below 👇  
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShaunakMishra25&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>

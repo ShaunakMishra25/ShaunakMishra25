@@ -118,13 +118,6 @@
     height="180em"
   />
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=ShaunakMishra25&theme=tokyonight&hide_border=true&border_radius=12" 
-    height="180em"
-  />
-</p>
-
-<p align="center">
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
     height="180em"
   />
@@ -136,9 +129,12 @@
   />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaunakMishra25&theme=tokyo-night" alt="Activity Graph" />
+  🟩 My real-time contribution streak and commit activity are visible on the GitHub tiles below 👇  
 </p>
+
 
 ---
 

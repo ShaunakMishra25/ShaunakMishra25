@@ -65,22 +65,38 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=shaunakmishra25&label=Profile%20views&color=0e75b6&style=flat" alt="shaunakmishra25" /> 
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaunakmishra25&" alt="shaunakmishra25" /></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical" alt="Top Languages" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" 
+    alt="GitHub Stats"
+    height="180em"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=ShaunakMishra25&theme=tokyonight&hide_border=true&border_radius=12" 
+    alt="GitHub Streak"
+    height="180em"
+  />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaunakmishra25" alt="shaunakmishra25" /></a> 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" 
+    alt="Top Languages"
+    height="180em"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=ShaunakMishra25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" 
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---

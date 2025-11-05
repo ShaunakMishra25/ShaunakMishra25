@@ -135,6 +135,9 @@
   🟩 My real-time contribution streak and commit activity are visible on the GitHub tiles below 👇  
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShaunakMishra25&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 ---
 

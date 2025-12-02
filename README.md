@@ -138,21 +138,24 @@
 
 ## GitHub Stats
 
-<div style="display: flex; gap: 10px;">
-
-  <img
-    src="https://github-readme-stats-eight-brown-69.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
-    alt="Shaunak's GitHub stats"
-    height="180"
-  />
-
-  <img
-    src="https://github-readme-stats-eight-brown-69.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
-    alt="Top Languages"
-    height="180"
-  />
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-eight-brown-69.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
+        alt="Shaunak's GitHub stats"
+        height="180"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats-eight-brown-69.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
+        alt="Top Languages"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 <br />
 

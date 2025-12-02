@@ -1,4 +1,4 @@
-<!-- 🌍 SHAUNAK MISHRA README -->
+<!-- SHAUNAK MISHRA README -->
 
 <h1 align="center">Hi 👋, I'm Shaunak Mishra</h1>
 <h3 align="center">Fullstack Developer | ML & Image Processing Enthusiast | Building Intelligent Web Systems</h3>
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 I’m a developer who enjoys building **scalable fullstack platforms** and **AI-assisted tools** that solve real-world problems.  
 Recently completed internships at **CN Nexus** and **GateBell**, delivering production features, reusable components, and backend integrations.
 
@@ -25,7 +25,7 @@ Recently completed internships at **CN Nexus** and **GateBell**, delivering prod
 
 ---
 
-### 🚀 Current Focus  
+### Current Focus  
 - Java Backend (Spring Boot, REST APIs)  
 - ML Image Processing (OpenCV, CNN fundamentals)  
 - AI integrations with GPT APIs  
@@ -33,7 +33,7 @@ Recently completed internships at **CN Nexus** and **GateBell**, delivering prod
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack | Live Demo |
 |----------|--------------|-------------|------------|
@@ -47,8 +47,8 @@ Recently completed internships at **CN Nexus** and **GateBell**, delivering prod
 
 ---
 
-### 🤖 AI / ML Work  
-📂 [AI-ML Repository](https://github.com/ShaunakMishra25/AI-Ml) – includes  
+### AI / ML Work  
+[AI-ML Repository](https://github.com/ShaunakMishra25/AI-Ml) – includes  
 - Image classification models  
 - CV preprocessing pipelines  
 - ML experiments & evaluations  
@@ -56,7 +56,7 @@ Recently completed internships at **CN Nexus** and **GateBell**, delivering prod
 
 ---
 
-### 🧩 Tech Stack  
+### Tech Stack  
 
 **Languages:** Java • Python • JavaScript • C • C++  
 **Frontend:** React • Next.js • Tailwind • TypeScript  
@@ -66,24 +66,24 @@ Recently completed internships at **CN Nexus** and **GateBell**, delivering prod
 
 ---
 
-### ⚙️ Tools I Use Daily  
+### Tools I Use Daily  
 VS Code • GitHub • Firebase • MongoDB • Postman • Jupyter • Kaggle • Linux
 
 ---
 
-### 🧠 Certifications  
+### Certifications  
 - Python Skill Certificate – OneRoadmap  
 - Java Skill Certificate – OneRoadmap  
 - Intro to Software Engineering – IBM  
 
 ---
 
-### 💡 My Dev Philosophy  
+### My Dev Philosophy  
 > “I like building systems that are clean, fast, and purposeful — software that solves problems, not just adds features.”
 
 ---
 
-### 🛣️ Learning Roadmap (2025)  
+### Learning Roadmap (2025)  
 - [x] React + Tailwind  
 - [x] ML Foundations  
 - [ ] Java Backend (Spring Boot)  
@@ -93,7 +93,7 @@ VS Code • GitHub • Firebase • MongoDB • Postman • Jupyter • Kaggle �
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 
 <p align="center">
   <img 
@@ -118,7 +118,7 @@ VS Code • GitHub • Firebase • MongoDB • Postman • Jupyter • Kaggle �
 
 ---
 
-### 🌐 Connect With Me  
+### Connect With Me  
 
 <p align="center">
   <a href="https://shaunakmishra.me" target="_blank">Portfolio</a> |

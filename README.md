@@ -149,26 +149,22 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/ShaunakMishra25">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
-      alt="Shaunak's GitHub stats"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ShaunakMishra25">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
-      alt="Top Languages"
-    />
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
+    alt="Shaunak's GitHub stats"
+  />
 </p>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=ShaunakMishra25&theme=radical&no-frame=true&no-bg=true&margin-w=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ShaunakMishra25&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=7"
     alt="GitHub Trophies"
   />
 </p>

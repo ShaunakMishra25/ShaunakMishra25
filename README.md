@@ -134,39 +134,27 @@
 - [ ] ML deployment (FastAPI / Streamlit)  
 - [ ] AI agents & GPT function calling  
 
-### Recent Stats
-<p>
-  <img
-    src="https://github-readme-stats-eight-brown-69.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
-    alt="Shaunak's GitHub stats"
-  />
-</p>
-
----
-
-## Certifications
-
-[![Python](https://img.shields.io/badge/Python%20Certified-3776AB?style=flat&logo=python&logoColor=white)](https://oneroadmap.io/skills/python/certificate/CERT-1A16E628)  
-[![Java](https://img.shields.io/badge/Java%20Certified-007396?style=flat&logo=java&logoColor=white)](https://oneroadmap.io/skills/java/certificate/CERT-84204C05)  
-[![IBM](https://img.shields.io/badge/IBM%20Software%20Eng-0F62FE?style=flat&logo=ibm&logoColor=white)](https://coursera.org/share/dfbd73c413b05d74dd79c8ff53800f2e)
-
 ---
 
 ## GitHub Stats
 
-<p align="center">
+<div style="display: flex; gap: 10px;">
+
   <img
     src="https://github-readme-stats-eight-brown-69.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
     alt="Shaunak's GitHub stats"
+    height="180"
   />
-</p>
 
-<p align="center">
   <img
     src="https://github-readme-stats-eight-brown-69.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
     alt="Top Languages"
+    height="180"
   />
-</p>
+
+</div>
+
+<br />
 
 <p align="center">
   <img
@@ -181,6 +169,14 @@
     alt="Profile views"
   />
 </p>
+
+---
+
+## Certifications
+
+[![Python](https://img.shields.io/badge/Python%20Certified-3776AB?style=flat&logo=python&logoColor=white)](https://oneroadmap.io/skills/python/certificate/CERT-1A16E628)  
+[![Java](https://img.shields.io/badge/Java%20Certified-007396?style=flat&logo=java&logoColor=white)](https://oneroadmap.io/skills/java/certificate/CERT-84204C05)  
+[![IBM](https://img.shields.io/badge/IBM%20Software%20Eng-0F62FE?style=flat&logo=ibm&logoColor=white)](https://coursera.org/share/dfbd73c413b05d74dd79c8ff53800f2e)
 
 ---
 

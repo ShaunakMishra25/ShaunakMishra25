@@ -138,7 +138,7 @@
 
 ## GitHub Stats
 
-<table>
+<table align="center">
   <tr>
     <td align="center">
       <img
@@ -156,6 +156,7 @@
     </td>
   </tr>
 </table>
+
 
 <br />
 

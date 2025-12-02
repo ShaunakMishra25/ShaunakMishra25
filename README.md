@@ -64,8 +64,6 @@ Recently completed internships at **CN Nexus** and **GateBell**, delivering prod
 **AI/ML:** OpenCV • CNN basics • TensorFlow (Intro level) • Sklearn  
 **Tools:** Git • GitHub • Postman • Vercel • Jupyter • Linux  
 
-(Badges remain unchanged)
-
 ---
 
 ### ⚙️ Tools I Use Daily  

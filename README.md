@@ -148,18 +148,38 @@
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=15&hide=issues&bg_color=0d1117&title_color=ffffff&text_color=9ea5b3&icon_color=0ea5e9" height="215" width="520"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ffffff&text_color=9ea5b3" height="215" width="460"/>
-</div>
+<p align="center">
+  <a href="https://github.com/ShaunakMishra25">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
+      alt="Shaunak's GitHub stats"
+    />
+  </a>
+</p>
 
-<br><br>
+<p align="center">
+  <a href="https://github.com/ShaunakMishra25">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
+      alt="Top Languages"
+    />
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaunakMishra25&theme=radical&no-frame=true&no-bg=true&margin-w=16&column=7" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ShaunakMishra25&label=Profile%20views&color=0ea5e9&style=flat-square&labelColor=0d1117" height="32"/>
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=ShaunakMishra25&theme=radical&no-frame=true&no-bg=true&margin-w=8"
+    alt="GitHub Trophies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ShaunakMishra25&label=Profile%20views&color=0ea5e9&style=flat-square"
+    alt="Profile views"
+  />
+</p>
+
 
 ---
 

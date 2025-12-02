@@ -1,20 +1,14 @@
-<!--
-  SHAUNAK MISHRA - ULTIMATE 2025 GITHUB PROFILE README
-  Premium Pro: Responsive layout, advanced stats, interactive badges, recruiter-optimized
-  Light/dark mode perfect, fast loading, ultra-professional
--->
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack%20Developer%20%7C%20AI%20%2F%20ML%20Engineer;React%20%7C%20Next.js%20%7C%20Tailwind%20%7C%20GPT%20APIs;Building%20AI-powered%20Web%20Apps;Remote%20Software%20Engineering%20%7C%20Global%20Focus&center=true&width=600&height=55&color=58A6FF&pause=1000" alt="Typing Animation" />
   <br><br>
   <img src="https://github.com/ShaunakMishra25.png" alt="Shaunak Mishra" width="150" height="150" style="border-radius:50%; border:4px solid #0ea5e9; box-shadow: 0 8px 24px rgba(14,165,233,0.3);" />
   <h1><strong>Shaunak Mishra</strong></h1>
-  <h3>Fullstack Developer | AI/ML Builder | Global Remote Roles 🌎</h3>
+  <h3>Fullstack Developer | AI/ML Builder | Global Remote Roles </h3>
 </div>
 
 ---
 
-## 🚀 Quick Navigation
+## Quick Navigation
 - [About Me](#about-me)
 - [Featured Projects](#featured-projects)
 - [Tech Stack](#tech-stack)
@@ -30,17 +24,17 @@
   <div style="flex: 1; min-width: 300px;">
     <ul>
       <li><strong>🔭 Currently building:</strong> AI Resume Analyzer, Metal Defect Detector, Civic Issue App</li>
-      <li><strong>🤖 Expertise:</strong> React, Next.js, Tailwind, GPT APIs, Python ML</li>
-      <li><strong>💼 Experience:</strong> Internships at CN Nexus & GateBell</li>
-      <li><strong>📈 DSA:</strong> 300+ problems solved (LeetCode, GFG, Codeforces)</li>
+      <li><strong> Expertise:</strong> React, Next.js, Tailwind, GPT APIs, Python ML</li>
+      <li><strong> Experience:</strong> Internships at CN Nexus & GateBell</li>
+      <li><strong> DSA:</strong> 300+ problems solved (LeetCode, GFG, Codeforces)</li>
     </ul>
   </div>
   <div style="flex: 1; min-width: 300px;">
     <ul>
-      <li><strong>🎯 Preparing for:</strong> Remote Software Engineering roles worldwide</li>
-      <li><strong>📫 Email:</strong> <a href="mailto:shaunakmishra374@gmail.com">shaunakmishra374@gmail.com</a></li>
-      <li><strong>📂 AI/ML Repo:</strong> <a href="https://github.com/ShaunakMishra25/AI-Ml">AI-ML Repository</a></li>
-      <li><strong>⚡ Fun fact:</strong> I automate boring tasks with AI APIs</li>
+      <li><strong> Preparing for:</strong> Remote Software Engineering roles worldwide</li>
+      <li><strong> Email:</strong> <a href="mailto:shaunakmishra374@gmail.com">shaunakmishra374@gmail.com</a></li>
+      <li><strong> AI/ML Repo:</strong> <a href="https://github.com/ShaunakMishra25/AI-Ml">AI-ML Repository</a></li>
+      <li><strong> Fun fact:</strong> I automate boring tasks with AI APIs</li>
     </ul>
   </div>
 </div>
@@ -52,14 +46,14 @@
 <table align="center">
   <tr>
     <td width="50%" align="center">
-      <h3>🧠 <a href="https://github.com/ShaunakMishra25/AI-Resume-Analyzer">AI Resume Analyzer</a></h3>
+      <h3> <a href="https://github.com/ShaunakMishra25/AI-Resume-Analyzer">AI Resume Analyzer</a></h3>
       <p>NLP-based resume parser & ATS scoring system</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" alt="OpenAI" />
       <img src="https://img.shields.io/badge/Streamlit-FF6B35?style=flat&logo=streamlit&logoColor=white" alt="Streamlit" />
     </td>
     <td width="50%" align="center">
-      <h3>⚙️ <a href="https://github.com/ShaunakMishra25/Metal-defect-detector">Metal Defect Detector</a></h3>
+      <h3> <a href="https://github.com/ShaunakMishra25/Metal-defect-detector">Metal Defect Detector</a></h3>
       <p>ML image classification (88% accuracy)</p>
       <img src="https://img.shields.io/badge/OpenCV-0277BD?style=flat&logo=opencv&logoColor=white" alt="OpenCV" />
       <img src="https://img.shields.io/badge/CNN-orange?style=flat&logo=tensorflow&logoColor=white" alt="CNN" />
@@ -68,14 +62,14 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🏙️ <a href="https://civic-issue-app.vercel.app">Civic Issue App</a> ↗</h3>
+      <h3> <a href="https://civic-issue-app.vercel.app">Civic Issue App</a> ↗</h3>
       <p>AI-powered civic reporting platform</p>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
       <img src="https://img.shields.io/badge/GPT%20API-412991?style=flat&logo=openai&logoColor=white" alt="GPT API" />
     </td>
     <td width="50%" align="center">
-      <h3>🚀 <a href="https://resume-gpt.vercel.app">ResumeGPT</a> ↗</h3>
+      <h3> <a href="https://resume-gpt.vercel.app">ResumeGPT</a> ↗</h3>
       <p>GPT-powered resume builder</p>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
       <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwind&logoColor=white" alt="Tailwind" />
@@ -94,14 +88,14 @@
   <table>
     <tr>
       <td align="center">
-        <h4>🌐 Frontend</h4>
+        <h4> Frontend</h4>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat&logo=tailwind&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
       </td>
       <td align="center">
-        <h4>⚙️ Backend</h4>
+        <h4> Backend</h4>
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Express.js-000?style=flat&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
@@ -110,14 +104,14 @@
     </tr>
     <tr>
       <td align="center">
-        <h4>🤖 AI/ML</h4>
+        <h4> AI/ML</h4>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/OpenCV-0277BD?style=flat&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
       </td>
       <td align="center">
-        <h4>🛠️ Tools</h4>
+        <h4> Tools</h4>
         <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
@@ -131,7 +125,7 @@
 
 ## Current Focus & Roadmap
 
-**🎯 Now Learning:**
+** Now Learning:**
 - [x] React + Tailwind Mastery
 - [x] ML Foundations (TensorFlow basics)
 - [ ] Java Spring Boot Backend
@@ -139,7 +133,7 @@
 - [ ] ML Deployment (FastAPI/Streamlit)
 - [ ] AI Agents & GPT Function Calling
 
-**📈 Recent Stats:**
+** Recent Stats:**
 <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12&hide=stars,issues,contrib" height="140" />
 
 ---
@@ -155,20 +149,16 @@
 ## GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=15&hide=issues" height="180"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180"/>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=ShaunakMishra25&theme=radical&no-frame=true&no-bg=true&margin-w=12" height="35"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=ShaunakMishra25&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=15&hide=issues&bg_color=0d1117&title_color=ffffff&text_color=9ea5b3&icon_color=0ea5e9" height="215" width="520"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=ffffff&text_color=9ea5b3" height="215" width="460"/>
+</div>
+
+<br><br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShaunakMishra25&theme=radical&no-frame=true&no-bg=true&margin-w=16&column=7" height="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ShaunakMishra25&label=Profile%20views&color=0ea5e9&style=flat-square&labelColor=0d1117" height="32"/>
 </div>
 
 ---
@@ -193,7 +183,7 @@
 ---
 
 <div align="center">
-  <em>💼 Open to remote opportunities | 🌍 Global focus | 🚀 Building intelligent systems</em><br>
+  <em> Open to remote opportunities | Global focus |  Building intelligent systems</em><br>
   <strong>✨ Last updated: December 2025</strong>
 </div>
 

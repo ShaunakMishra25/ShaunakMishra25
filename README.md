@@ -153,17 +153,16 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
+    src="https://github-readme-stats-jbhootyq1-shaunakmishra25s-projects.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12"
     alt="Shaunak's GitHub stats"
   />
 </p>
 
 <p align="center">
-<img
-  src="https://github-readme-stats-jbhootyq1-shaunakmishra25s-projects.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
-  alt="Top Languages"
-/>
-
+  <img
+    src="https://github-readme-stats-jbhootyq1-shaunakmishra25s-projects.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
@@ -179,7 +178,6 @@
     alt="Profile views"
   />
 </p>
-
 
 ---
 

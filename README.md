@@ -11,6 +11,8 @@
 ## Quick Navigation
 - [About Me](#about-me)
 - [Featured Projects](#featured-projects)
+- [Experience](#experience)
+- [Education](#education)
 - [Tech Stack](#tech-stack)
 - [Current Focus](#current-focus--roadmap)
 - [GitHub Stats](#github-stats)
@@ -25,7 +27,7 @@
     <ul>
       <li><strong>🔭 Currently building:</strong> AI Resume Analyzer, Metal Defect Detector, Civic Issue App</li>
       <li><strong>Expertise:</strong> React, Next.js, Tailwind, GPT APIs, Python ML</li>
-      <li><strong>Experience:</strong> Internships at CN Nexus & GateBell</li>
+      <li><strong>Experience:</strong> Frontend & Software Engineer Intern (CN Nexus, GateBell)</li>
       <li><strong>DSA:</strong> 300+ problems solved (LeetCode, GFG, Codeforces)</li>
     </ul>
   </div>
@@ -80,6 +82,24 @@
 
 **More projects:**  
 [BlogGen](https://bloggen-ai.vercel.app) • [LeetSync](https://github.com/ShaunakMishra25/leetsync-organizer) • [Nexus-E1](https://github.com/ShaunakMishra25/Nexus-E1)
+
+---
+
+## Experience
+
+- <strong>Frontend Developer – CN Nexus</strong> (Remote, Jun 2025 – Aug 2025)  
+  Built a DSA practice platform for 50+ users aggregating LeetCode, GFG and Codeforces using REST APIs and client-side caching.  
+  Improved discovery and search speed with topic-wise categorization, lazy loading, memoized filters and indexed tag lookups, plus 10+ reusable components and 15+ UI bug fixes.
+
+- <strong>Software Engineer Intern – YugaYatra Retail (GateBell)</strong> (Remote, Jun 2025 – Aug 2025)  
+  Developed GateBell, an OTP-based visitor verification system with Firebase Auth and MongoDB, delivering 10+ screens and 15 reusable components.  
+  Implemented history, analytics, subscription and billing modules and fixed 20+ UI/logic issues, improving dashboard performance and consistency.
+
+---
+
+## Education
+
+B.Tech in Computer Science & Engineering, Institute of Technical Education and Research (SOA), Bhubaneswar · CGPA: 8.67 (2023–2027)
 
 ---
 
@@ -156,7 +176,6 @@
     </td>
   </tr>
 </table>
-
 
 <br />
 

@@ -161,8 +161,10 @@ B.Tech in Computer Science & Engineering, Institute of Technical Education and R
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-git-master-shaunakmishra25s-projects.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12&cache_seconds=86400" alt="Shaunak's GitHub stats" height="180"
-  />
+      <img src="https://github-readme-stats.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" 
+  alt="GitHub Stats"
+  height="180"
+/>
     </td>
     <td align="center">
       <img

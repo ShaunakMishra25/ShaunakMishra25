@@ -162,14 +162,14 @@ B.Tech in Computer Science & Engineering, Institute of Technical Education and R
   <tr>
     <td align="center">
       <img 
-  src="https://github-readme-stats-kghe3xoc8-shaunakmishra25s-projects.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=86400" 
+  src="https://github-readme-stats-shaunak.vercel.app/api?username=ShaunakMishra25&show_icons=true&theme=radical&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&cache_seconds=86400" 
   alt="GitHub Stats"
   height="180"
 />
     </td>
     <td align="center">
       <img
-  src="https://github-readme-stats-kghe3xoc8-shaunakmishra25s-projects.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=86400"
+  src="https://github-readme-stats-shaunak.vercel.app/api/top-langs/?username=ShaunakMishra25&layout=compact&theme=radical&hide_border=true&border_radius=12&cache_seconds=86400"
   alt="Top Languages"
   height="180"
 />
